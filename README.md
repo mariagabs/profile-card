@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+# Frontend Mentor - Profile card component solution
 
-You can use the [editor on GitHub](https://github.com/mariagabs/profile-card/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This is a solution to the [Profile card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Table of contents
 
-### Markdown
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Note: Delete this note and update the table of contents based on what sections you keep.**
 
-```markdown
-Syntax highlighted code block
+## Overview
 
-# Header 1
-## Header 2
-### Header 3
+### The challenge
 
-- Bulleted
-- List
+- Build out the project to the designs provided
 
-1. Numbered
-2. List
+### Screenshot
 
-**Bold** and _Italic_ and `Code` text
+![image](https://user-images.githubusercontent.com/71193719/120881566-671c0800-c5a8-11eb-86a2-e50dc2d10c1f.png)
 
-[Link](url) and ![Image](src)
-```
+### Links
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- [Live Site URL](https://mariagabs.github.io/profile-card/)
 
-### Jekyll Themes
+## My process
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mariagabs/profile-card/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Built with
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
