@@ -21,6 +21,11 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ![image](https://user-images.githubusercontent.com/71193719/120881566-671c0800-c5a8-11eb-86a2-e50dc2d10c1f.png)
 
+Mobile:
+
+![image](https://user-images.githubusercontent.com/71193719/121287237-8de38280-c8b7-11eb-813e-206455426661.png)
+
+
 ### Links
 
 - [Live Site URL](https://mariagabs.github.io/profile-card/)
